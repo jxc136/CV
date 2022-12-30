@@ -1,6 +1,10 @@
-## Your Name
+## Josh Carvell
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+I am a full stack Ruby developer specialising in (tbc).
+
+I am a recent graduate of a software development bootcamp, backed by 8 years of business marketing experience. I am well suited for working as part of agile development teams, and an experienced  communicator to be the face of a development team. 
+
 
 ## Projects
 
@@ -36,13 +40,21 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Process Management
 
-- Experience
-- Achievements
-- Evidence (STAR)
 
-#### Another Skill
+In any project in my career and throughout my learning, I am proactive in introducing processes and procedures to better faciliate teamwork, visibility and task management within teams and across business functions. As a result, everyone in my teams has a clear idea of the state of a project and what is needed from eachother, and anyone with oversight of me or my team to easily review progress and understand where they are required. 
+
+I set the strategic direction for every project I was on, breaking down our requirements and functions into step my step instructions that could form individual tickets for a sprint, and created templates for user stories and tickets that could easily be replicated by team. This helped streamline the process for our projects and ensured that members of my teams who were less confident of how to work towards our final goals could clearly see what neeeded to be done and select tickets that helped build their confidence.
+
+#### Problem Solving 
+
+Whenever anything goes wrong on a project am I involved in. I can be relied upon to step in and quickly determine the best course of action to efficiently solve a problem. This approach has led me to work in a way that allows me to anticipate any future problems in projects I am involved in and avoid them from the outset.
+
+In my first group project I upskilled my team members by helping explain concepts that my team were struggling with, such as implementing sessions in a web app, to ensure that the team was not blocked if i was not free to work on an important feature. In other projects, I have been pragmatic and adjusted our sprint objectives and MVP features, and managed stakeholder expectations if our team was not on track to implement our project on time. 
+
+
+#### Analytical Thinking 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -50,6 +62,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
 
 ## Education
 
