@@ -15,10 +15,22 @@ I am a recent graduate of a software development bootcamp, backed by 8 years of 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Digital Health Intelligence** (August 2019 – July 2022)   
+_Digital Marketing Executive_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+* Delivered audience acquisition activities for Digital Health’s main news website, events, and community networks through cross-channel digital marketing
+* Oversaw the planning, production, and delivery of email marketing campaigns to increase traffic and leads
+* Generated marketing leads for the sales team through multi channel marketing campaigns across three separate lines of business
+* Created, co-ordinated and disseminated marketing collateral across digital channels to support lead generation
+* Developed and executed  the marketing plan and all campaigns for the company’s annual pitch competition
+* Created, managed and maintained event marketing websites using Wordpress, creating and updating content alongside designers and developers
+* Organised the creation of event marketing brochures to support lead nurturing, writing marketing copy and overseeing the design process with an external designer
+* Oversaw the overall marketing schedule, including planning, creating and scheduling email campaigns, display ads, and social media campaigns
+* Created, managed and implemented a cohesive marketing data strategy
+* Developed new marketing lists and audience segments using CRM data
+* Tracked the impact of all marketing activity, providing weekly web analytics and marketing KPI reports before analysing them to recommend improvements to campaigns
+* Led the marketing function for a new community hub for the FutureNHS platform, creating and executing the digital marketing strategy for NHSX
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
