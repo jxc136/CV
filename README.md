@@ -50,7 +50,7 @@ _Marketing Executive_
 * Responsible for briefing and signing off marketing work with internal and external designers 
 
 **PA Media** (February 2017 – April 2018)  
-_ Marketing Assistant_
+_Marketing Assistant_
 
 
 ## Skills
