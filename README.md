@@ -32,7 +32,7 @@ _Digital Marketing Executive_
 * Led the marketing function for a new community hub for the FutureNHS platform, creating and executing the digital marketing strategy for NHSX
 
 
-**MMT Digital ** (April 2018 – July 2019: FTC)  
+**MMT Digital** (April 2018 – July 2019: FTC)  
 _Marketing Executive_
 
 * Responsible for email marketing campaigns and the creation of quarterly newsletters 
