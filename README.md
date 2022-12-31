@@ -51,23 +51,34 @@ I set the strategic direction for every project I was on, breaking down our requ
 
 Whenever anything goes wrong on a project am I involved in. I can be relied upon to step in and quickly determine the best course of action to efficiently solve a problem. This approach has led me to work in a way that allows me to anticipate any future problems in projects I am involved in and avoid them from the outset.
 
-In my first group project I upskilled my team members by helping explain concepts that my team were struggling with, such as implementing sessions in a web app, to ensure that the team was not blocked if i was not free to work on an important feature. In other projects, I have been pragmatic and adjusted our sprint objectives and MVP features, and managed stakeholder expectations if our team was not on track to implement our project on time. 
+In my first group project I upskilled my team members by helping explain concepts that my team were struggling with, such as implementing sessions in a web app, to ensure that the team was not blocked if i was not free to work on an important feature. In other projects, In other projects I have taken a leading role defining the requirements and scope of a project, generating a wide range of ideas and possibilities for approaching each task. 
 
 
-#### Analytical Thinking 
+#### Adaptability
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+I am able to adapt to new situations quickly, adapting my roles and responsibilities to meet changing goals and circumstances and keep my teams moving forward. In my teams which can help to minimize disruptions and keep the team moving forward.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+In my first project, my team was low in confidence, so I stepped into a leadership role to 
 
-#### This Skill
+In other projects, I have been pragmatic and adjusted our sprint objectives and MVP features, and managed stakeholder expectations if our team was not on track to implement our project on time. 
 
-- Experience
-- Achievements
-- Evidence (STAR)
+
+I am a flexible and creative problem solver, equally confident in breaking down problems in a linear and systeming way as I am exploring a 
+As a developer I am a creative problem solver that approach problems in a logical and systemic way and come up with creative solut
+
+
+
+#### Teamwork
+
+I am a collaborative team-player that helps bring the best out of the teams I am in. As a developer,I am able to work effecitvely with others regardless of the circumstances, and I am equally confident of leading projects as I am taking direction. 
+
+By introducing clear and easy to follow processes, my teams are collaborative, with clear communication and I help create team dynamics where tasks are clearly defined and everyone feels involved, and that they have a voice. 
+
+In our Makers' 'Appreciation' channel, my teammtes have said the following about me:
+
+* @Josh Carvell {Thank You} for all your effort you have done for our team project both on professional and personal level!
+* Big shout out to TEAM PRICELESS @Josh Carvell @Maria @Eva, @Nayla - couldn’t have achieved what we did without putting the team first everyday!!
+* Big appreciations today. Massive help, guidance, patience and good humour from @Tony, @Eliza, @Andy and last, but by absolutely no means least, @Josh Carvell! You guys saved me today. You are most definitely appreciated 
 
 ## Education
 
