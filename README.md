@@ -91,9 +91,9 @@ By introducing clear and easy to follow processes, my teams are collaborative, w
 
 In our Makers' 'Appreciation' channel, my teammtes have said the following about me:
 
-* @Josh Carvell {Thank You} for all your effort you have done for our team project both on professional and personal level!
-* Big shout out to TEAM PRICELESS @Josh Carvell @Maria @Eva, @Nayla - couldn’t have achieved what we did without putting the team first everyday!!
-* Big appreciations today. Massive help, guidance, patience and good humour from @Tony, @Eliza, @Andy and last, but by absolutely no means least, @Josh Carvell! You guys saved me today. You are most definitely appreciated 
+* '@Josh Carvell {Thank You} for all your effort you have done for our team project both on professional and personal level!'
+* 'Big shout out to TEAM PRICELESS @Josh Carvell @Maria @Eva, @Nayla - couldn’t have achieved what we did without putting the team first everyday!!'
+* 'Big appreciations today. Massive help, guidance, patience and good humour from @Tony, @Eliza, @Andy and last, but by absolutely no means least, @Josh Carvell! You guys saved me today. You are most definitely appreciated'
 
 ## Education
 
