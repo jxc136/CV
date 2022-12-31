@@ -32,10 +32,26 @@ _Digital Marketing Executive_
 * Led the marketing function for a new community hub for the FutureNHS platform, creating and executing the digital marketing strategy for NHSX
 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**MMT Digital ** (April 2018 – July 2019: FTC)  
+_Marketing Executive_
 
-- Any experience relevent to software development
+* Responsible for email marketing campaigns and the creation of quarterly newsletters 
+* Managed the companies CMS, creating and editing landing pages and blog posts 
+* Liaised with project teams to write award entries and liaised with organisers to secure judging spots for colleagues
+* Led the development, promotion and execution of marketing webinars
+* Oversaw the SEO overhaul of the company website, working with a digital strategist to research, create and update metadata for key pages
+* Responsible for the conception, writing, editing, proofreading and delivery of marketing copy for internal and external audiences
+* Project managed the partner programme of our key solutions provider, organising tasks and securing resource  
+* Created the company’s social media strategy and posted engaging and professional content
+* Managed the marketing budget, overseeing expenditure and reporting to finance
+* Oversaw the creation and maintenance of client CRM data, resourcing briefing and managing administrative support 
+* Developed and managed company case studies, presentations and brand assets 
+* Worked with company thought leaders to commission and edit blog content
+* Responsible for briefing and signing off marketing work with internal and external designers 
+
+**PA Media** (February 2017 – April 2018)  
+_ Marketing Assistant_
+
 
 ## Skills
 
@@ -90,16 +106,17 @@ In our Makers' 'Appreciation' channel, my teammtes have said the following about
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University Of Birmingham, (2011-2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+BA in English. 2.1 
+
+#### Aylesbury Grammar School (2004-2011)
+
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+2019 - Advanced Google Analytics Certification 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Outside of work, I'm a passionate fan of music, and a lover of strategy and card games. You’re as likely to find me at a gig as you are checking out a new TCG. 
