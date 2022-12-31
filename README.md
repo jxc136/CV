@@ -1,9 +1,9 @@
 ## Josh Carvell
 
 
-I am a full stack Ruby developer specialising in (tbc).
+I am a full stack developer specialising in Javascript and Ruby.
 
-I am a recent graduate of a software development bootcamp, backed by 8 years of business marketing experience. I am well suited for working as part of agile development teams, and an experienced  communicator to be the face of a development team. 
+As a developer with 8 years of business marketing experience and recent graduate of a software development bootcamp, I am well-suited to work as part of agile development teams. With strong communication skills and the ability to be the face of a development team, I am confident in my ability to contribute to successful software development projects. 
 
 
 ## Projects
