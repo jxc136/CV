@@ -6,7 +6,7 @@
 **Objective**: To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. . 
 
 
-## Projects
+## 💻 Projects
 
 | Name                         | Description                                                                                   | Tech/tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
@@ -15,7 +15,7 @@
 | **Guardian News Reader** | An app to display the day's headlines from the Guardian API | Node.js, jest, Postman, Moment.js, HTML, CSS        |
 | **Chitter** | A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, timecop
 
-## Technical Skills
+## 🧑‍💻 Technical Skills
 
 #### Languages: <br><img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white" />  <img height="20" src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />  <img height="20" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" /> 
 
@@ -25,7 +25,7 @@
 
 #### Tools and Platforms <br><img height="20" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff" /><img height="20" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-RSpec-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Rubocop-ffffff?logo=RuboCop&logoColor=000000" /> 
 
-## Professional Skills 
+## 👨‍🎓 Professional Skills 
 ### Problem Solving:
 Ability to quickly determine the best course of action to efficiently solve problems.
 Experience in anticipating and avoiding future problems in projects.
@@ -47,7 +47,7 @@ Confident in explaining my work verbally and through documentation
 Example: Led projects that required direct communication with external stakeholders, effectively briefing and evaluating work, receiving and executing on client briefs, and providing project updates and billing time.
 
 
-## Work Experience
+## 🧑‍💼 Work Experience
 
 **Digital Health Intelligence** (August 2019 – July 2022) 
 <details>
@@ -95,7 +95,7 @@ Example: Led projects that required direct communication with external stakehold
 _Marketing Assistant_
 
 
-## Education
+## 👨‍🎓 Education
 
 #### Makers Academy (October 2022 - February 2023)
 
