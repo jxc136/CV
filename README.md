@@ -1,22 +1,59 @@
 ## Josh Carvell
 
 
-I am a full stack developer specialising in Javascript and Ruby.
+**Summary**: Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Strong technical skills and ability to work effectively in agile development teams.
 
-As a developer with 8 years of business marketing experience and recent graduate of a software development bootcamp, I am well-suited to work as part of agile development teams. With strong communication skills and the ability to be the face of a development team, I am confident in my ability to contribute to successful software development projects. 
+**Objective**: To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. . 
 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                                                   | Tech/tools        |
+| ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
+| **jobBuddy**                  |A webapp app  created to help job hunters stay organised when finding their next career move  | Mongoose, Express, React, Node.js, Jest, Cypress, Postman, CSS Bootstrap,  |
+| **Acebook** | A MERN stack facebook clone built by 5 junior developers over 7 working days |Mongoose, Express, React, Node.js, Jest, Cypress, Postman, Cloudinary,CSS         |
+| **Guardian News Reader** | An app to display the day's headlines from the Guardian API | Node.js, jest, Postman, Moment.js, HTML, CSS        |
+| **Chitter** | A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, timecop
+
+## Technical Skills
+
+#### Languages: <br><img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white" />  <img height="20" src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />  <img height="20" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" /> 
+
+#### Frameworks and Libraries <br><img height="20" src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Rails-CC0000?logo=rubyonrails&logocolor=white" /> <img height="20" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white" />  <img height="20" src="https://img.shields.io/badge/-Sinatra-ffffff?logo=rubysinatra&logoColor=000000" />
+
+#### Databases<br><img height="20" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white" />
+
+#### Tools and Platforms <br><img height="20" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff" /><img height="20" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-RSpec-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Rubocop-ffffff?logo=RuboCop&logoColor=000000" /> 
+
+## Professional Skills 
+### Problem Solving:
+Ability to quickly determine the best course of action to efficiently solve problems.
+Experience in anticipating and avoiding future problems in projects.
+Example: Led a team of students in a MERN stack development project, despite having limited knowledge of the technologies. I devised a learning curriculum and minimum knowledge criteria to ensure the team was prepared to work on the project, resulting in successful completion of all project requirements.
+
+### Process Management:
+Experience in introducing and implementing processes to improve intra-team workflows and visibility of work.
+Ability to streamline processes and improve communication across teams and departments.
+Example: Implemented new processes in my organisations to improve intra-team workflows, resulting in increased visibility of work and improved communication across departments.
+
+### Teamwork:
+Experience in leading and coordinating projects in cross-departmental teams.
+Proven ability to work effectively with internal and external stakeholders to deliver successful projects.
+Example: Led and coordinated projects as part of cross-departmental teams, effectively communicating and collaborating with internal and external stakeholders to deliver successful projects.
+
+### Communication Skills:
+Strong verbal and written communication skills, able to clearly convey technical information to non-technical audiences.
+Confident in explaining my work verbally and through documentation
+Example: Led projects that required direct communication with external stakeholders, effectively briefing and evaluating work, receiving and executing on client briefs, and providing project updates and billing time.
+
 
 ## Work Experience
 
-**Digital Health Intelligence** (August 2019 – July 2022)   
-_Digital Marketing Executive_
+**Digital Health Intelligence** (August 2019 – July 2022) 
+<details>
+<summary> 
+<em>Digital Marketing Executive</em>
+</summary> 
 
 * Delivered audience acquisition activities for Digital Health’s main news website, events, and community networks through cross-channel digital marketing
 * Oversaw the planning, production, and delivery of email marketing campaigns to increase traffic and leads
@@ -31,9 +68,13 @@ _Digital Marketing Executive_
 * Tracked the impact of all marketing activity, providing weekly web analytics and marketing KPI reports before analysing them to recommend improvements to campaigns
 * Led the marketing function for a new community hub for the FutureNHS platform, creating and executing the digital marketing strategy for NHSX
 
+</details>
 
-**MMT Digital** (April 2018 – July 2019: FTC)  
-_Marketing Executive_
+**MMT Digital** (April 2018 – July 2019: FTC)
+<details>
+<summary> 
+<em> Marketing Executive </em>
+</summary>
 
 * Responsible for email marketing campaigns and the creation of quarterly newsletters 
 * Managed the companies CMS, creating and editing landing pages and blog posts 
@@ -46,65 +87,33 @@ _Marketing Executive_
 * Managed the marketing budget, overseeing expenditure and reporting to finance
 * Oversaw the creation and maintenance of client CRM data, resourcing briefing and managing administrative support 
 * Developed and managed company case studies, presentations and brand assets 
-* Worked with company thought leaders to commission and edit blog content
 * Responsible for briefing and signing off marketing work with internal and external designers 
+
+</details>
 
 **PA Media** (February 2017 – April 2018)  
 _Marketing Assistant_
 
 
-## Skills
-
-#### Process Management
-
-
-In any project in my career and throughout my learning, I am proactive in introducing processes and procedures to better faciliate teamwork, visibility and task management within teams and across business functions. As a result, everyone in my teams has a clear idea of the state of a project and what is needed from eachother, and anyone with oversight of me or my team to easily review progress and understand where they are required. 
-
-I set the strategic direction for every project I was on, breaking down our requirements and functions into step my step instructions that could form individual tickets for a sprint, and created templates for user stories and tickets that could easily be replicated by team. This helped streamline the process for our projects and ensured that members of my teams who were less confident of how to work towards our final goals could clearly see what neeeded to be done and select tickets that helped build their confidence.
-
-#### Problem Solving 
-
-Whenever anything goes wrong on a project am I involved in. I can be relied upon to step in and quickly determine the best course of action to efficiently solve a problem. This approach has led me to work in a way that allows me to anticipate any future problems in projects I am involved in and avoid them from the outset.
-
-In my first group project I upskilled my team members by helping explain concepts that my team were struggling with, such as implementing sessions in a web app, to ensure that the team was not blocked if i was not free to work on an important feature. In other projects, In other projects I have taken a leading role defining the requirements and scope of a project, generating a wide range of ideas and possibilities for approaching each task. 
-
-
-#### Adaptability
-
-I am able to adapt to new situations quickly, adapting my roles and responsibilities to meet changing goals and circumstances and keep my teams moving forward. In my teams which can help to minimize disruptions and keep the team moving forward.
-
-In my first project, my team was low in confidence, so I stepped into a leadership role to 
-
-In other projects, I have been pragmatic and adjusted our sprint objectives and MVP features, and managed stakeholder expectations if our team was not on track to implement our project on time. 
-
-
-I am a flexible and creative problem solver, equally confident in breaking down problems in a linear and systeming way as I am exploring a 
-As a developer I am a creative problem solver that approach problems in a logical and systemic way and come up with creative solut
-
-
-
-#### Teamwork
-
-I am a collaborative team-player that helps bring the best out of the teams I am in. As a developer,I am able to work effecitvely with others regardless of the circumstances, and I am equally confident of leading projects as I am taking direction. 
-
-By introducing clear and easy to follow processes, my teams are collaborative, with clear communication and I help create team dynamics where tasks are clearly defined and everyone feels involved, and that they have a voice. 
-
-In our Makers' 'Appreciation' channel, my teammtes have said the following about me:
-
-* '@Josh Carvell {Thank You} for all your effort you have done for our team project both on professional and personal level!'
-* 'Big shout out to TEAM PRICELESS @Josh Carvell @Maria @Eva, @Nayla - couldn’t have achieved what we did without putting the team first everyday!!'
-* 'Big appreciations today. Massive help, guidance, patience and good humour from @Tony, @Eliza, @Andy and last, but by absolutely no means least, @Josh Carvell! You guys saved me today. You are most definitely appreciated'
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (October 2022 - February 2023)
+
+A 16 week Software Enginerering course from one of Europe's leading bootcamp providers focusing on:
+
+##### Software Development
+
+- Writing high quality code that is readable and easy to change 
+- Testing and TDD
+- Modeling and designing programs
+- Debugging and refacforing
+
+#### Agile Processes and Teamwork
+
+* Agile development
+* Pair programmning
+* Collabortaive growth
+
 
 #### University Of Birmingham, (2011-2014)
 
