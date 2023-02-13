@@ -122,10 +122,10 @@ BA in English. 2.1
 #### Aylesbury Grammar School (2004-2011)
 
 
-#### Any other qualifications
+#### Certifications
 
 2019 - Advanced Google Analytics Certification 
 
 ## Hobbies
 
-Outside of work, I'm a passionate fan of music, and a lover of strategy and card games. You’re as likely to find me at a gig as you are checking out a new TCG. 
+Outside of work, I'm a passionate fan of music, and a lover of board games. You’re equally as likely to find me spending my Friday at a board game cafe as you are a gig. 
