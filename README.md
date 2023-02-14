@@ -10,10 +10,10 @@
 
 | Name                         | Description                                                                                   | Tech/tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
-| **jobBuddy**                  |A webapp app  created to help job hunters stay organised when finding their next career move  | Mongoose, Express, React, Node.js, Jest, Cypress, Postman, CSS Bootstrap,  |
-| **Acebook** | A MERN stack facebook clone built by 5 junior developers over 7 working days |Mongoose, Express, React, Node.js, Jest, Cypress, Postman, Cloudinary,CSS         |
-| **Guardian News Reader** | An app to display the day's headlines from the Guardian API | Node.js, jest, Postman, Moment.js, HTML, CSS        |
-| **Chitter** | A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, timecop
+| [**jobBuddy**](https://github.com/NicolaHearn/jobBuddy)                  |A webapp app  created to help job hunters stay organised when finding their next career move  | Mongoose, Express, React, Node.js, Jest, Cypress, Postman, CSS Bootstrap,  |
+| [**Acebook**](https://github.com/jillwones/acebook-mern) | A MERN stack facebook clone built by 5 junior developers over 7 working days |Mongoose, Express, React, Node.js, Jest, Cypress, Postman, Cloudinary,CSS         |
+| [**Guardian News Reader**](https://github.com/jxc136/news-summary-challenge) | An app to display the day's headlines from the Guardian API | Node.js, jest, Postman, Moment.js, HTML, CSS        |
+| [**Chitter** ](https://github.com/jxc136/chitter-challenge)| A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, timecop
 
 ## 🧑‍💻 Technical Skills
 
