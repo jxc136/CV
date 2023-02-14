@@ -11,9 +11,10 @@
 **Summary**: Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Strong technical skills and ability to work effectively in agile development teams.
 
 **Objective**: To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. 
+<br />
+<br />
 
-
-## 💻 Projects
+## 💻  Projects
 
 | Name                         | Description                                                                                   | Tech/tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
@@ -22,6 +23,8 @@
 | [**Guardian News Reader**](https://github.com/jxc136/news-summary-challenge) | An app to display the day's headlines from the Guardian API | Node.js, jest, Postman, Moment.js, HTML, CSS        |
 | [**Chitter** ](https://github.com/jxc136/chitter-challenge)| A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, timecop
 
+<br />
+    
 ## 🧑‍💻 Technical Skills
 
 #### Languages: <br><img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white" />  <img height="20" src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />  <img height="20" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" /> 
@@ -32,7 +35,9 @@
 
 #### Tools and Platforms <br><img height="20" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=ffffff" /><img height="20" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-RSpec-CC342D?logo=Ruby&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" /> <img height="20" src="https://img.shields.io/badge/-Rubocop-ffffff?logo=RuboCop&logoColor=000000" /> 
 
-## 👨‍🎓 Professional Skills 
+<br />
+
+## 👨‍🎓  Professional Skills 
 ### Problem Solving:
 
 Ability to quickly determine the best course of action to efficiently solve problems.
@@ -103,10 +108,10 @@ receiving and executing on client briefs, and providing project updates and bill
 </details>
 <hr/>
 
-## 🧑‍💼 Work Experience
+## 🧑‍💼  Work Experience
 <a href="https://www.digitalhealth.net/"><img height="20" src="https://i.imgur.com/1XBVQNN.png" /> </a>
 <br>
-<strong>Digital Health Intelligence:</strong> (August 2019 – July 2022)
+ <a href="https://www.digitalhealth.net/"> <strong> Digital Health Intelligence: </strong> (August 2019 – July 2022) </a>
 <br />
 <em>Digital Marketing Executive</em>
 <details>
@@ -131,7 +136,7 @@ receiving and executing on client briefs, and providing project updates and bill
 
 <a href="https://mmtdigital.co.uk/"> <img height="20" src="https://i.imgur.com/yzkjwCr.png" /> </a>
 <br />
-<strong>MMT Digital:</strong> (April 2018 – July 2019: FTC)
+    <a href="https://mmtdigital.co.uk/"><strong>MMT Digital:</strong> (April 2018 – July 2019: FTC) </a>
 <br />
 <em> Marketing Executive </em>
 <details>
@@ -152,14 +157,15 @@ receiving and executing on client briefs, and providing project updates and bill
 <hr/>
 <a href="https://pa.media/"><img height="20" src="https://i.imgur.com/imDTlaJ.png" /> </a>
 <br>
-<strong>PA Media:</strong> (February 2017 – April 2018)
+    <a href="https://pa.media/"><strong>PA Media:</strong> (February 2017 – April 2018)</a>
 <br />
 <em> Marketing Assistant  </em>
 
 
-## 👨‍🎓 Education
+## 👨‍🎓  Education
 
-#### Makers Academy (October 2022 - February 2023)
+<h4> <a href="https://makers.tech/">  <strong> Makers Academy (October 2022 - February 2023) </strong>  </a> </h4> 
+
 
 A 16 week Software Enginerering course from one of Europe's leading bootcamp providers focusing on:
 
@@ -176,17 +182,15 @@ A 16 week Software Enginerering course from one of Europe's leading bootcamp pro
 * Pair programmning
 * Collabortaive growth
 
-
-#### University Of Birmingham, (2011-2014)
+<h4> <a href="https://www.birmingham.ac.uk/index.aspx">  <strong> University Of Birmingham, (2011-2014) </strong>  </a> </h4> 
 
 BA in English. 2.1 
 
-#### Aylesbury Grammar School (2004-2011)
-
+<h4> <a href="https://www.ags.bucks.sch.uk/">  <strong> Aylesbury Grammar School (2004-2011) </strong>  </a> </h4>
 
 #### Certifications
 
-2019 - Advanced Google Analytics Certification 
+<h4> <a href="https://analytics.google.com/analytics/academy/course/7">  <strong> Advanced Google Analytics Certification (2019) </strong>  </a> </h4>
 
 ## Hobbies
 
