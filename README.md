@@ -1,9 +1,16 @@
-## Josh Carvell
+<h1 align="center">Josh Carvell </h1>
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joshcarvell/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Connect-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/> <a href="mailto:j_carvell@hotmail.co.uk" target="_blank">
+<img src="https://img.shields.io/badge/j_carvell@hotmail.co.uk-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</div>
+<br>
 
 **Summary**: Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Strong technical skills and ability to work effectively in agile development teams.
 
-**Objective**: To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. . 
+**Objective**: To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. 
 
 
 ## 💻 Projects
@@ -27,58 +34,89 @@
 
 ## 👨‍🎓 Professional Skills 
 ### Problem Solving:
+
 Ability to quickly determine the best course of action to efficiently solve problems.
 Experience in anticipating and avoiding future problems in projects.
+<details>
+<summary>
+  <strong>Example:</strong>
 
-**Example:** 
+</summary> 
 
 ```
 Led a team of students in a MERN stack development project, despite having limited knowledge of the technologies. 
 I devised a learning curriculum and minimum knowledge criteria to ensure the team was prepared to work on the project, 
 resulting in successful completion of all project requirements.
 ```
+</details>
+<hr/>
+
 ### Process Management:
+
 
 Experience in introducing and implementing processes to improve intra-team workflows and visibility of work.
 Ability to streamline processes and improve communication across teams and departments.
+<details>
+<summary>
+  <strong>Example:</strong>
 
-**Example:** 
-```
+</summary>
+
 Implemented new processes in my organisations to improve intra-team workflows, resulting in increased 
 visibility of work and improved communication across departments.
-```
+
+
+</details>
+<hr/>
+
 ### Teamwork:
+
 Experience in leading and coordinating projects in cross-departmental teams.
 Proven ability to work effectively with internal and external stakeholders to deliver successful projects.
+<details>
+<summary>
+  <strong>Example:</strong>
 
-**Example:** 
-```
-Led and coordinated projects as part of cross-departmental teams, effectively communicating 
-and collaborating with internal and external stakeholders to deliver successful projects.
-```
+</summary> 
+
+
+Led and coordinated projects as part of cross-departmental teams, effectively communicating and collaborating 
+with internal and external stakeholders to deliver successful projects.
+
+</details>
+<hr/>
+
 ### Communication Skills:
 Strong verbal and written communication skills, able to clearly convey technical information to non-technical audiences.
 Confident in explaining my work verbally and through documentation
 
-**Example:** 
-```
+<details>
+<summary>
+  <strong>Example:</strong>
+
+</summary> 
+
+
 Led projects that required direct communication with external stakeholders, effectively briefing and evaluating work, 
 receiving and executing on client briefs, and providing project updates and billing time.
-```
+
+</details>
+<hr/>
 
 ## 🧑‍💼 Work Experience
-
-**Digital Health Intelligence** (August 2019 – July 2022) 
-<details>
-<summary> 
+<a href="https://www.digitalhealth.net/"><img height="20" src="https://i.imgur.com/1XBVQNN.png" /> </a>
+<br>
+<strong>Digital Health Intelligence:</strong> (August 2019 – July 2022)
+<br />
 <em>Digital Marketing Executive</em>
-</summary> 
+<details>
+<summary>Details</summary> 
+<br>
 
 * Delivered audience acquisition activities for Digital Health’s main news website, events, and community networks through cross-channel digital marketing
 * Oversaw the planning, production, and delivery of email marketing campaigns to increase traffic and leads
-* Generated marketing leads for the sales team through multi channel marketing campaigns across three separate lines of business
 * Created, co-ordinated and disseminated marketing collateral across digital channels to support lead generation
-* Developed and executed  the marketing plan and all campaigns for the company’s annual pitch competition
+* Developed and executed the marketing plan and all campaigns for the company’s annual pitch competition
 * Created, managed and maintained event marketing websites using Wordpress, creating and updating content alongside designers and developers
 * Organised the creation of event marketing brochures to support lead nurturing, writing marketing copy and overseeing the design process with an external designer
 * Oversaw the overall marketing schedule, including planning, creating and scheduling email campaigns, display ads, and social media campaigns
@@ -88,30 +126,35 @@ receiving and executing on client briefs, and providing project updates and bill
 * Led the marketing function for a new community hub for the FutureNHS platform, creating and executing the digital marketing strategy for NHSX
 
 </details>
+<hr/>
 
-**MMT Digital** (April 2018 – July 2019: FTC)
-<details>
-<summary> 
+
+<a href="https://mmtdigital.co.uk/"> <img height="20" src="https://i.imgur.com/yzkjwCr.png" /> </a>
+<br />
+<strong>MMT Digital:</strong> (April 2018 – July 2019: FTC)
+<br />
 <em> Marketing Executive </em>
-</summary>
+<details>
+<summary>Details</summary> 
+<br>
 
-* Responsible for email marketing campaigns and the creation of quarterly newsletters 
-* Managed the companies CMS, creating and editing landing pages and blog posts 
-* Liaised with project teams to write award entries and liaised with organisers to secure judging spots for colleagues
-* Led the development, promotion and execution of marketing webinars
+* Responsible for cross channel marketing campaigns for a UX and Software Development agency
+* Managed the companys CMS, creating and editing landing pages and blog posts 
 * Oversaw the SEO overhaul of the company website, working with a digital strategist to research, create and update metadata for key pages
 * Responsible for the conception, writing, editing, proofreading and delivery of marketing copy for internal and external audiences
 * Project managed the partner programme of our key solutions provider, organising tasks and securing resource  
 * Created the company’s social media strategy and posted engaging and professional content
 * Managed the marketing budget, overseeing expenditure and reporting to finance
 * Oversaw the creation and maintenance of client CRM data, resourcing briefing and managing administrative support 
-* Developed and managed company case studies, presentations and brand assets 
 * Responsible for briefing and signing off marketing work with internal and external designers 
 
 </details>
-
-**PA Media** (February 2017 – April 2018)  
-_Marketing Assistant_
+<hr/>
+<a href="https://pa.media/"><img height="20" src="https://i.imgur.com/imDTlaJ.png" /> </a>
+<br>
+<strong>PA Media:</strong> (February 2017 – April 2018)
+<br />
+<em> Marketing Assistant  </em>
 
 
 ## 👨‍🎓 Education
