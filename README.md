@@ -66,10 +66,11 @@ Ability to streamline processes and improve communication across teams and depar
   <strong>Example:</strong>
 
 </summary>
-
+  
+```
 Implemented new processes in my organisations to improve intra-team workflows, resulting in increased 
 visibility of work and improved communication across departments.
-
+```
 
 </details>
 <hr/>
@@ -84,10 +85,11 @@ Proven ability to work effectively with internal and external stakeholders to de
 
 </summary> 
 
-
+```
 Led and coordinated projects as part of cross-departmental teams, effectively communicating and collaborating 
 with internal and external stakeholders to deliver successful projects.
-
+```
+  
 </details>
 <hr/>
 
@@ -100,11 +102,11 @@ Confident in explaining my work verbally and through documentation
   <strong>Example:</strong>
 
 </summary> 
-
-
+  
+```
 Led projects that required direct communication with external stakeholders, effectively briefing and evaluating work, 
 receiving and executing on client briefs, and providing project updates and billing time.
-
+```
 </details>
 <hr/>
 
