@@ -29,23 +29,42 @@
 ### Problem Solving:
 Ability to quickly determine the best course of action to efficiently solve problems.
 Experience in anticipating and avoiding future problems in projects.
-Example: Led a team of students in a MERN stack development project, despite having limited knowledge of the technologies. I devised a learning curriculum and minimum knowledge criteria to ensure the team was prepared to work on the project, resulting in successful completion of all project requirements.
 
+**Example:** 
+
+```
+Led a team of students in a MERN stack development project, despite having limited knowledge of the technologies. 
+I devised a learning curriculum and minimum knowledge criteria to ensure the team was prepared to work on the project, 
+resulting in successful completion of all project requirements.
+```
 ### Process Management:
+
 Experience in introducing and implementing processes to improve intra-team workflows and visibility of work.
 Ability to streamline processes and improve communication across teams and departments.
-Example: Implemented new processes in my organisations to improve intra-team workflows, resulting in increased visibility of work and improved communication across departments.
 
+**Example:** 
+```
+Implemented new processes in my organisations to improve intra-team workflows, resulting in increased 
+visibility of work and improved communication across departments.
+```
 ### Teamwork:
 Experience in leading and coordinating projects in cross-departmental teams.
 Proven ability to work effectively with internal and external stakeholders to deliver successful projects.
-Example: Led and coordinated projects as part of cross-departmental teams, effectively communicating and collaborating with internal and external stakeholders to deliver successful projects.
 
+**Example:** 
+```
+Led and coordinated projects as part of cross-departmental teams, effectively communicating 
+and collaborating with internal and external stakeholders to deliver successful projects.
+```
 ### Communication Skills:
 Strong verbal and written communication skills, able to clearly convey technical information to non-technical audiences.
 Confident in explaining my work verbally and through documentation
-Example: Led projects that required direct communication with external stakeholders, effectively briefing and evaluating work, receiving and executing on client briefs, and providing project updates and billing time.
 
+**Example:** 
+```
+Led projects that required direct communication with external stakeholders, effectively briefing and evaluating work, 
+receiving and executing on client briefs, and providing project updates and billing time.
+```
 
 ## 🧑‍💼 Work Experience
 
