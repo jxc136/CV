@@ -68,8 +68,8 @@ Ability to streamline processes and improve communication across teams and depar
 </summary>
   
 ```
-Implemented new processes in my organisations to improve intra-team workflows, resulting in increased 
-visibility of work and improved communication across departments.
+Introduced agile and XP processes in each of the team projects I led, using kanban boards and regular code reviews to 
+create clear and simple workflows and allow every team member to easily see the state of a project.
 ```
 
 </details>
@@ -86,8 +86,8 @@ Proven ability to work effectively with internal and external stakeholders to de
 </summary> 
 
 ```
-Led and coordinated projects as part of cross-departmental teams, effectively communicating and collaborating 
-with internal and external stakeholders to deliver successful projects.
+Led and coordinated each of my group projects at Makers Academy, running daily standups and retros, 
+assisting team members that needed support and ensuring that teams had a productive and supportive team environment.
 ```
   
 </details>
