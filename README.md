@@ -16,7 +16,7 @@
 
 ## 💻  Projects
 
-| Name                         | Description                                                                                   | Tech/tools        |
+| Name                         | Description                                                                                   | Tech/Tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
 | [**jobBuddy**](https://github.com/NicolaHearn/jobBuddy)                  |A webapp app  created to help job hunters stay organised when finding their next career move.  | Mongoose, Express, React, Node.js, Jest, Cypress, Postman, CSS Bootstrap.  |
 | [**Acebook**](https://github.com/jillwones/acebook-mern) | A MERN stack facebook clone built by 5 junior developers over 7 working days. |Mongoose, Express, React, Node.js, Jest, Cypress, Postman, Cloudinary, CSS.         |
@@ -122,15 +122,10 @@ receiving and executing on client briefs, and providing project updates and bill
 
 * Delivered audience acquisition activities for Digital Health’s main news website, events, and community networks through cross-channel digital marketing
 * Oversaw the planning, production, and delivery of email marketing campaigns to increase traffic and leads
-* Created, co-ordinated and disseminated marketing collateral across digital channels to support lead generation
-* Developed and executed the marketing plan and all campaigns for the company’s annual pitch competition
 * Created, managed and maintained event marketing websites using Wordpress, creating and updating content alongside designers and developers
-* Organised the creation of event marketing brochures to support lead nurturing, writing marketing copy and overseeing the design process with an external designer
 * Oversaw the overall marketing schedule, including planning, creating and scheduling email campaigns, display ads, and social media campaigns
 * Created, managed and implemented a cohesive marketing data strategy
 * Developed new marketing lists and audience segments using CRM data
-* Tracked the impact of all marketing activity, providing weekly web analytics and marketing KPI reports before analysing them to recommend improvements to campaigns
-* Led the marketing function for a new community hub for the FutureNHS platform, creating and executing the digital marketing strategy for NHSX
 
 </details>
 <hr/>
@@ -149,11 +144,7 @@ receiving and executing on client briefs, and providing project updates and bill
 * Managed the companys CMS, creating and editing landing pages and blog posts 
 * Oversaw the SEO overhaul of the company website, working with a digital strategist to research, create and update metadata for key pages
 * Responsible for the conception, writing, editing, proofreading and delivery of marketing copy for internal and external audiences
-* Project managed the partner programme of our key solutions provider, organising tasks and securing resource  
-* Created the company’s social media strategy and posted engaging and professional content
-* Managed the marketing budget, overseeing expenditure and reporting to finance
 * Oversaw the creation and maintenance of client CRM data, resourcing briefing and managing administrative support 
-* Responsible for briefing and signing off marketing work with internal and external designers 
 
 </details>
 <hr/>
@@ -186,7 +177,7 @@ A 16 week Software Enginerering course from one of Europe's leading bootcamp pro
 
 <h4> <a href="https://www.birmingham.ac.uk/index.aspx">  <strong> University Of Birmingham, (2011-2014) </strong>  </a> </h4> 
 
-BA in English. 2.1 
+- BA in English. 2.1 
 
 <h4> <a href="https://www.ags.bucks.sch.uk/">  <strong> Aylesbury Grammar School (2004-2011) </strong>  </a> </h4>
 
