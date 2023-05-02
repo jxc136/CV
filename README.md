@@ -19,6 +19,7 @@
 | Name                         | Description                                                                                   | Tech/Tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
 | [**jobBuddy**](https://github.com/NicolaHearn/jobBuddy)                  |A webapp app  created to help job hunters stay organised when finding their next career move.  | Mongoose, Express, React, Node.js, Jest, Cypress, Postman, CSS Bootstrap.  |
+| [**InterviewBuddy**](https://github.com/jxc136/interviewBuddy) |A webapp app  created to help job hunters stay organised when finding their next career move.  | Javascript, NodeJs, HTML, CSS, Jest  |interviewBuddy| An interview practice tool to help junior developers looking for their next role.|
 | [**Acebook**](https://github.com/jillwones/acebook-mern) | A MERN stack facebook clone built by 5 junior developers over 7 working days. |Mongoose, Express, React, Node.js, Jest, Cypress, Postman, Cloudinary, CSS.         |
 | [**Guardian News Reader**](https://github.com/jxc136/news-summary-challenge) | An app to display the day's headlines from the Guardian API. | Node.js, jest, Postman, Moment.js, HTML, CSS.        |
 | [**Chitter** ](https://github.com/jxc136/chitter-challenge)| A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, Timecop
@@ -111,6 +112,25 @@ receiving and executing on client briefs, and providing project updates and bill
 <hr/>
 
 ## 🧑‍💼  Work Experience
+    
+<a href="https://adhduk.co.uk/"><img height="20" src="https://adhduk.co.uk/wp-content/uploads/sites/6/2020/06/ADHD-UK.jpg" /> </a>
+<br>
+ <a href="https://adhduk.co.uk/"> <strong> ADHD UK: </strong> (March 2023 - Current) </a>
+<br />
+<em>Volunteer Software Developer</em>
+<details>
+<summary>Details</summary> 
+<br>
+
+* Contributed to the development of a serverless product recommendation app using React and Typescript
+* Designed and implemented user-friendly interfaces using React and Material-UI.
+* Refactored and integrated legacy code into the new codebase, ensuring a seamless transition and improved maintainability.
+* Engaged in the agile development process, contributing to effective project management through weekly standups, Kanban boards, and pair programming sessions.
+
+
+</details>
+<hr/>
+    
 <a href="https://www.digitalhealth.net/"><img height="20" src="https://i.imgur.com/1XBVQNN.png" /> </a>
 <br>
  <a href="https://www.digitalhealth.net/"> <strong> Digital Health Intelligence: </strong> (August 2019 – July 2022) </a>
