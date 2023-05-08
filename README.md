@@ -8,7 +8,7 @@
 </div>
 <br>
 
-**Summary**: Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Strong technical skills and ability to work effectively in agile development teams.
+**Summary**: Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Strong technical skills and ability to work effectively in agile development teams. Currently working as a volunteer Software Developer at ADHD UK
 
 **Objective**: To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. 
 <br />
