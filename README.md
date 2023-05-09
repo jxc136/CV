@@ -15,11 +15,13 @@
 <br />
 
 ## 💻  Projects
+    
+    
 
 | Name                         | Description                                                                                   | Tech/Tools        |
 | ---------------------------- | ----------------------------------------------------------------------------------------------| ----------------- |
 | [**jobBuddy**](https://github.com/NicolaHearn/jobBuddy)                  |A webapp app  created to help job hunters stay organised when finding their next career move.  | Mongoose, Express, React, Node.js, Jest, Cypress, Postman, CSS Bootstrap.  |
-| [**InterviewBuddy**](https://github.com/jxc136/interviewBuddy) |A webapp app  created to help job hunters stay organised when finding their next career move.  | Javascript, NodeJs, HTML, CSS, Jest  |interviewBuddy| An interview practice tool to help junior developers looking for their next role.|
+| [**InterviewBuddy**](https://github.com/jxc136/interviewBuddy) |A webapp app  created to help job hunters stay organised when finding their next career move.   | Javascript, NodeJs, HTML, CSS, Jest  |interviewBuddy| An interview practice tool to help junior developers looking for their next role.|
 | [**Acebook**](https://github.com/jillwones/acebook-mern) | A MERN stack facebook clone built by 5 junior developers over 7 working days. |Mongoose, Express, React, Node.js, Jest, Cypress, Postman, Cloudinary, CSS.         |
 | [**Guardian News Reader**](https://github.com/jxc136/news-summary-challenge) | An app to display the day's headlines from the Guardian API. | Node.js, jest, Postman, Moment.js, HTML, CSS.        |
 | [**Chitter** ](https://github.com/jxc136/chitter-challenge)| A simple twitter clone built using Ruby, ERB, HTML and PostgreSQL.        | Ruby, Sinatra, PostgreSQL, HTML, Rspec, Capybara, Rubocop, Timecop
@@ -122,10 +124,10 @@ receiving and executing on client briefs, and providing project updates and bill
 <summary>Details</summary> 
 <br>
 
-* Contributed to the development of a serverless product recommendation app using React and Typescript
-* Designed and implemented user-friendly interfaces using React and Material-UI.
-* Refactored and integrated legacy code into the new codebase, ensuring a seamless transition and improved maintainability.
-* Engaged in the agile development process, contributing to effective project management through weekly standups, Kanban boards, and pair programming sessions.
+* Contributed to the development of a cloud application using React and Typescript
+* Developed modularized React components, which enabled simple unit testing.
+* Deployed features to a Wordpress production environment, expanding the application's capabilities.
+* Collaborated with 4 developers as part of an Agile scrum team, using Kanban, code reviews and pair programming to ensure high code quality.
 
 
 </details>
