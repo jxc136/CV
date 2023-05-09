@@ -8,7 +8,7 @@
 </div>
 <br>
 
-**Summary**: Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Grand finalist of the Cognizant National Coding Challenge 2023. Currently working as a volunteer Software Developer at ADHD UK
+**Summary**: Full-stack Javascript and Ruby developer with 8 years of business marketing experience and a recent graduate of a software development bootcamp. Grand finalist of the Cognizant National Coding Challenge 2023. Currently working as a volunteer Software Developer at ADHD UK.
 
 **Objective**: To obtain a full-stack software developer role in an agile development team, where I can leverage my technical skills, problem-solving abilities, and project management skills to deliver high-quality software. 
 <br />
